@@ -1,4 +1,4 @@
-# Optimization_Project
+# BSE_Optimization_Project
 
 
 ## Part 1 
